@@ -1,0 +1,6 @@
+C:\Users\eduar\source\repos\List.MVVM\List.Model\bin\Debug\List.Model.dll
+C:\Users\eduar\source\repos\List.MVVM\List.Model\bin\Debug\List.Model.pdb
+C:\Users\eduar\source\repos\List.MVVM\List.Model\obj\Debug\List.Model.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\List.MVVM\List.Model\obj\Debug\List.Model.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\List.MVVM\List.Model\obj\Debug\List.Model.dll
+C:\Users\eduar\source\repos\List.MVVM\List.Model\obj\Debug\List.Model.pdb

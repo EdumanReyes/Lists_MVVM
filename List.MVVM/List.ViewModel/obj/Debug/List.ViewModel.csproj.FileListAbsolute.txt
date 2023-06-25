@@ -1,0 +1,9 @@
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\bin\Debug\List.ViewModel.dll
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\bin\Debug\List.ViewModel.pdb
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\obj\Debug\List.ViewModel.dll
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\obj\Debug\List.ViewModel.pdb
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\bin\Debug\List.Model.dll
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\bin\Debug\List.Model.pdb
+C:\Users\eduar\source\repos\List.MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.CopyComplete
